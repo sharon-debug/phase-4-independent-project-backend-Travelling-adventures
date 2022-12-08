@@ -1,5 +1,5 @@
 # README
-github link https://github.com/sharon-debug/phase-4-independent-project-frontend-travelling-adventures
+github link https://github.com/sharon-debug/adventure-frontend
 
 
 
