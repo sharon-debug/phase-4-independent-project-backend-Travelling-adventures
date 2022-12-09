@@ -1,17 +1,17 @@
 # README
-Travelling Adventure  API
+# Travelling Adventure  API
 
 Travelling Adventure API is a RESTful API that provides a way to  create, update, delete and retrieve the images and review from the client. It also provides a way to create and retrieve users.
 
 
-user login
+# user login
 
 {
   "username": "shazy",
   "password": "password"
 }
 
-Installation Guide
+ # Installation Guide
 
 Start by cloning (not forking) the project template repository and removing the remote:
 
@@ -35,11 +35,11 @@ rails s: run the backend on http://localhost:3000
 npm start run the frontend on http://localhost:4000
  
 
- END POINT 
+ # END POINT 
 
   Houses Features
 
- GET
+ # GET
 
  GET details for all houses
 
@@ -84,7 +84,7 @@ npm start run the frontend on http://localhost:4000
         "per_night": "430"
     },
 
- POST
+ # POST
 
  create an new house
     {
@@ -95,7 +95,7 @@ npm start run the frontend on http://localhost:4000
     "t.string"   "per_night"  
     }
  
- show 
+ # show 
 
  search a house by a ID
  {
@@ -107,23 +107,23 @@ npm start run the frontend on http://localhost:4000
         "per_night": "500"
     },
 
- UPDATE 
+ # UPDATE 
 
  update reviews about a certain house
 
 
 
 
-Technologies Used
+# Technologies Used
 
 
 Ruby on rails Rails is a web application development framework written in the Ruby programming language. It allows for installation and managing of dependencies and communication with databases.
 
-Authors
+# Authors
 Sharon Chepkemoi
 
 
-License
+# License
 This project is available for use under the MIT License.
 
 
