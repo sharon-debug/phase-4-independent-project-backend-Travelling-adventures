@@ -27,6 +27,7 @@ bundle install
 also require postman to test the api
 
 The frontend github link https://github.com/sharon-debug/adventure-frontend
+deploy fronend end link http://adventure-frontend.vercel.app/
 
 
 You can use the following commands to run the application:

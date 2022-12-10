@@ -53,7 +53,7 @@ end
 
 
 puts 'Seeding Visits..'
-Visit.create(date: "12/12/2020", user_id:second.id, house_id: house7.id)
+Visit.create(start_date: "12/12/2022", user_id:second.id, house_id: hous7.id)
 100.times do 
   Visit.create(
     start_date: Faker::Date.between(from: '2022-01-01', to: '2023-05-31'),
